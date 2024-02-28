@@ -11,4 +11,4 @@ createCollectable("kennedi");//creates a "kennedi" collectible at the coordinate
 createCannon("left", 600, 1000); // cannon on left wall, 600px down, shooting once per second
 createCannon("right", 600, 1000); // cannon on right wall, 600px down, shooting twice per second
 createCannon("top", 600, 1000); // cannon on top wall, 600px down, shooting once three second
-createCannon("bottom", 600, 1000); // cannon on bottom wall, 600px down, shooting four per second
+createCannon("bottom", 700, 1000); // cannon on bottom wall, 600px down, shooting four per second

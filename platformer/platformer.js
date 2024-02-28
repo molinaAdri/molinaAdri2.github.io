@@ -1,3 +1,5 @@
+function createPlatform(x, y, width, height) {
+    platforms.push({ x, y, width, height });
 createPlatform(600, 500, 200, 20); // short but wide platform located 600 pixels from the left of the screen and 500 pixels from the top of the screen
 createPlatform(400, 400, 100, 10); // short but wide platform located 500 pixels from the left of the screen and 400 pixels from the top of the screen
 createPlatform(300, 300, 50, 5); // short but wide platform located 400 pixels from the left of the screen and 300 pixels from the top of the screen
